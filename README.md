@@ -1,7 +1,26 @@
-### Hi there 👋
+<h1>Hi, I'm Richard!
+  
+  <a href="">Cybersecurity enthusiast</a>
+
+<h2>Certifications</h2>
+<a href="https://www.credly.com/badges/5116bcf9-8b93-4b1f-b0c0-f98ae7e65474/public_url">Google Cybersecurity Certificate</a>
+
+<a href="https://www.credly.com/badges/4d963b6e-f176-4d59-9921-e918d032b1c7/public_url">CompTIA Security+</a>
+
+
+<h2>👨‍💻 Cybersecurity projects:</h2>
+
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: 
 
 <!--
-**Negative0negit/Negative0negit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +32,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--
