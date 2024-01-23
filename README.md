@@ -10,6 +10,7 @@
 
 <h2>👨‍💻 Cybersecurity projects:</h2>
 
+- [Python Algorythm](https://github.com/Negative0negit/PythonAlgorithm)
 
 
 <h2> 🤳 Connect with me:</h2>
