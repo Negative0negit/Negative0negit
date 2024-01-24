@@ -12,6 +12,7 @@
 
 - [Python Algorythm](https://github.com/Negative0negit/PythonAlgorithm)
 - [SQL filtering](https://github.com/Negative0negit/SQLfiltering)
+- [File permission in Linux](https://github.com/Negative0negit/Linuxpermissions)
 
 
 <h2> 🤳 Connect with me:</h2>
